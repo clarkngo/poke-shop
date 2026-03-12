@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-coral: #FF6B6B;
+  --color-coral-dark: #ee5a5a;
+  --color-ocean: #1A535C;
+  --color-ocean-light: #2d7a86;
+  --color-sand: #FFF8F0;
+  --color-seafoam: #4ECDC4;
+  --color-seafoam-dark: #3dbdb4;
+  --color-sunset: #FFE66D;
+  --color-charcoal: #2C3E50;
+}
